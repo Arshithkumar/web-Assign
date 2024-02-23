@@ -820,7 +820,8 @@
     top: 100px;
     left: 162px;
     /* border: 2px solid green; */
-    margin: 100px 162px;
+    /* margin: 100px 162px; */
+    padding: 100px 162px;
 }
 
 .prt-3-5-1-1{
