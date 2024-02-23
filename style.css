@@ -220,7 +220,7 @@
     top: 1314px;
     gap: 120px;
     margin-top: 80px;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
 }
 
 .prt-3-1{
@@ -228,7 +228,7 @@
     height: 965px;
     margin-left: 162px;
     /* padding-left: 60px; */
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 
 .bx-3-2{
@@ -236,7 +236,7 @@
     height: 774px;
     /* gap: 32px; */
     margin-top: 60px;
-    border: 2px solid rgb(255, 0, 0);
+    /* border: 2px solid rgb(255, 0, 0); */
 }
 .bx-3-2-1{
     width: 1596px;
@@ -244,14 +244,14 @@
     padding: 20px 40px 20px 40px;
     border-radius: 8px;
     background-color: #F0F0F0;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
 }
 
 .bx321-1{
     width: 1476px;
     height: 40px;
     gap: 45px;
-    border: 2px solid orange;
+    /* border: 2px solid orange; */
 }
 
 .inp-bx input{
@@ -269,7 +269,7 @@
     width: 1597px;
     height: 955px;
     margin-top: 32px;
-    border: 2px solid rgb(255, 0, 0);
+    /* border: 2px solid rgb(255, 0, 0); */
     margin-left: 161.5px;
 }
 
@@ -278,7 +278,7 @@
     height: 662px;
     gap: 32px;
     margin-top: 32px;
-    border: 2px solid rgb(0, 0, 0);
+    /* border: 2px solid rgb(0, 0, 0); */
 }
 .bx322-1{
     width: 382px;
@@ -286,7 +286,7 @@
     border-radius: 8px;
     border: 1px;
     gap: 24px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 
 }
 .bar{
@@ -315,7 +315,7 @@
     height: 474px;
     gap: 8px;
     margin-top: 24px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     
 }
 
@@ -324,14 +324,14 @@
     height: 474px;
     gap: 24px;
     margin-left: 24px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 
 .bdy1-1{
     width: 334px;
     height: 169px;
     gap: 16px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 
 }
 
@@ -340,7 +340,7 @@
     height: 281px;
     gap: 16px;
     margin-top: 24px;
-    border: 2px solid violet;
+    /* border: 2px solid violet; */
 
 }
 .bdy1-1-1{
@@ -418,7 +418,7 @@
     width: 1182px;
     height: 662px;
     gap: 24px;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     margin-left: 32px;
 }
 .bx322-2 h3{
@@ -439,7 +439,7 @@
     height: 376px;
     gap: 16px;
     margin-top: 16px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 .bx322-2-2{
     width: 1182px;
@@ -452,7 +452,7 @@
     width: 1182px;
     height: 180px;
     gap: 16px;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     margin-bottom: 16px;
 
 }
@@ -473,7 +473,7 @@
     width: 543px;
     height: 140px;
     gap: 12px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 
 }
 .bx322211-1-1 img{
@@ -484,7 +484,7 @@
     width: 165px;
     height: 132px;
     gap: 3px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 
 }
 
@@ -642,7 +642,7 @@
     height: 357px;
     gap: 80px;
     margin: 80px 347px 182px 347px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 
 .prt3-3-1 h3{
@@ -669,7 +669,7 @@
     width: 1226px;
     height: 175px;
     gap: 32px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     margin-top: 80px;
 }
 
@@ -677,7 +677,7 @@
     width: 597px;
     height: 175px;
     gap: 24px;
-    border: 2px solid brown;
+    /* border: 2px solid brown; */
 
 }
 
@@ -691,7 +691,7 @@
     width: 398px;
     height: 150.09px;
     gap: 16px;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     margin: 12.46px 0px 12.46px 24px;
 }
 
@@ -702,7 +702,7 @@
 
 .prt33-1-1 p{
     margin: 16px 0px 15px 0px;
-    border: 2px solid magenta;
+    /* border: 2px solid magenta; */
 }
 
 .prt33-1-1 h5{
@@ -726,7 +726,7 @@
     gap: 24px;
     margin-top: 60px;
 
-    border:2px solid red;
+    /* border:2px solid red; */
 }
 
 .prt3-3-3 button{
@@ -746,21 +746,21 @@
     height: 880px;
     padding: 120px 0px 120px 0px;
     gap: 64px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 
 .prt-3-4-1{
     width: 1,920px;
     height: 640px;
     padding: 0px 32px 0px 32px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 
 .prt-3-4-2{
     width: 1596px;
     height: 640px;
     /* gap: 80px; */
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     margin: 0px 162px 0px 162px;
 }
 
@@ -768,13 +768,13 @@
     width: 1226px;
     height: 386px;
     gap: 60px;
-    border: 2px solid pink;
+    /* border: 2px solid pink; */
     margin: 80px 185px 0px 185px;
 }
 
 .inp2{
     justify-content: space-between;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     margin-bottom: 24px;
 }
 
@@ -794,7 +794,7 @@
 .crd-11{
     width: 601px;
     height: 74px;
-    border: 2px solid grey;
+    /* border: 2px solid grey; */
 }
 
 .inp2 p{
@@ -810,7 +810,7 @@
     height: 558px;
     background-color: #F6F6F5;
     margin-top:120px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 
 }
 
@@ -819,7 +819,7 @@
     height: 216px;
     top: 100px;
     left: 162px;
-    border: 2px solid green;
+    /* border: 2px solid green; */
     margin: 100px 162px;
 }
 
@@ -828,7 +828,7 @@
     height: 144px;
     top: 100px;
     left: 162px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 
 .prt-3-5-1-1 h3{
@@ -851,7 +851,7 @@
     top: 100px;
     left: 569px;
     gap: 41px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     margin-left: 112.7px;
 
 }
@@ -891,7 +891,7 @@
     width: 111px;
     height: 216px;
     padding: 0px, 0px, 0px, 0px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 
 }
 
@@ -899,7 +899,7 @@
     width: 137px;
     height: 216px;
     padding: 0px, 0px, 0px, 0px;
-    border: 2px soild violet;
+    /* border: 2px soild violet; */
 }
 
 .txt-prt3 {
@@ -911,7 +911,7 @@
     width: 111px;
     height: 168px;
     top: 48px;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     /* align-content: space-between; */
 }
 
@@ -921,11 +921,11 @@
     height: 168px;
     top: 48px;
     left: 152px;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
 }
 
 .list-txt-3 li{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     list-style: none;
     /* font-family: Outfit; */
     font-size: 14px;
@@ -938,7 +938,7 @@
     color: #2C230E;
 }
 .list-txt-4 li{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     list-style: none;
     /* font-family: Outfit; */
     font-size: 14px;
@@ -1002,7 +1002,7 @@
 }
 
 .prt-3-5-3{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     width: 312px;
     height: 22px;
     top: 476px;
